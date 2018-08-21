@@ -27,7 +27,6 @@ packages:
 - "python-dev"
 - "python-setuptools"
 - "fonts-tuffy"
-- "libevent"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
 - "url": "https://github.com/gobytecoin/gobyte.git"
