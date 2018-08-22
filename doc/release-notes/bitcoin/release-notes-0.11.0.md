@@ -301,7 +301,7 @@ git merge commit are mentioned.
 - #5514 `ed11d53` Fix 'make distcheck'
 - #5505 `a99ef7d` Build winshutdownmonitor.cpp on Windows only
 - #5582 `e8a6639` Osx toolchain update
-- #5684 `ab64022` osx: bump build sdk to 10.9
+- #5684 `ab64022` osx: bump build sdk to 10.11
 - #5695 `23ef5b7` depends: latest config.guess and config.sub
 - #5509 `31dedb4` Fixes when compiling in c++11 mode
 - #5819 `f8e68f7` release: use static libstdc++ and disable reduced exports by default

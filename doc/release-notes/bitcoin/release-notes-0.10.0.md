@@ -486,7 +486,7 @@ Validation:
 - `76ce5c8` fail immediately on an empty signature
 
 Build system:
-- `f25e3ad` Fix build in OS X 10.9
+- `f25e3ad` Fix build in OS X 10.11
 - `65e8ba4` build: Switch to non-recursive make
 - `460b32d` build: fix broken boost chrono check on some platforms
 - `9ce0774` build: Fix windows configure when using --with-qt-libdir
@@ -547,7 +547,7 @@ GUI:
 - `21f139b` Fix tablet crash. closes #4854
 - `e84843c` Broken addresses on command line no longer trigger testnet
 - `a49f11d` Change splash screen to normal window
-- `1f9be98` Disable App Nap on OSX 10.9+
+- `1f9be98` Disable App Nap on OSX 10.11+
 - `27c3e91` Add proxy to options overridden if necessary
 - `4bd1185` Allow "emergency" shutdown during startup
 - `d52f072` Don't show wallet options in the preferences menu when running with -disablewallet
